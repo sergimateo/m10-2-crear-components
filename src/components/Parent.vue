@@ -1,6 +1,7 @@
 <template>
-  <div id="parent"><h2> {{ mennssagge }} </h2>
-  <Child></Child>
+  <div id="parent">
+    <h2>{{ mennssagge }}</h2>
+    <Child></Child>
   </div>
 </template>
 
@@ -14,10 +15,8 @@ export default {
 
   data() {
     return {
-      mennssagge: "I'm Annakin, the Father",
+      mennssagge: "I'm Annakin, the Father"
     };
-  },
-
+  }
 };
 </script>
-

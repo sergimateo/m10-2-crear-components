@@ -11,14 +11,13 @@ import Parent from "./components/Parent.vue";
 
 export default {
   components: {
-    Parent: Parent,
+    Parent: Parent
   },
   data() {
     return {
-      title: "I'm App.vue, Grandmaster Jedi",
+      title: "I'm App.vue, Grandmaster Jedi"
     };
-  },
- 
+  }
 };
 </script>
 
