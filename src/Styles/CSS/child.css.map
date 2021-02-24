@@ -1,0 +1,9 @@
+{
+    "version": 3,
+    "mappings": "AAAA,AAAA,MAAM,CAAC;EACH,KAAK,EAAE,OAAO;CACf",
+    "sources": [
+        "../SCSS/child.scss"
+    ],
+    "names": [],
+    "file": "child.css"
+}

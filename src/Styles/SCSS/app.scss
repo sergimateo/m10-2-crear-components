@@ -1,24 +1,14 @@
-$primary: purple;
+#imApp {
+  color: #b6b66c;
+}
 
-#child {
-    color: #752e72;
-  }
-  
-  #parent {
-    color: #47806d;
-  }
-  
-  #imApp {
-    color: #b6b66c;
-  }
-  
-  #hello {
-    color: #1f7cda;
-  }
-  #app {
-    font-family: Avenir, Helvetica, Arial, sans-serif;
-    -webkit-font-smoothing: antialiased;
-    -moz-osx-font-smoothing: grayscale;
-    text-align: center;
-    margin-top: 60px;
-  }
+#hello {
+  color: #1f7cda;
+}
+#app {
+  font-family: Avenir, Helvetica, Arial, sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  text-align: center;
+  margin-top: 60px;
+}

@@ -7,4 +7,4 @@
 </template>
 
 <script type="text/javascript" src="@/Scripts/app.js"></script>
-<style src="@/Styles/CSS/app.css"></style>
+<style src="@/Styles/CSS/app.css" scoped></style>
