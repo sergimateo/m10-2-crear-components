@@ -5,18 +5,5 @@
   </div>
 </template>
 
-<script>
-import Child from "./Child.vue";
-
-export default {
-  components: {
-    Child: Child
-  },
-
-  data() {
-    return {
-      mennssagge: "I'm Annakin, the Father"
-    };
-  }
-};
-</script>
+<script type="text/javascript" src="@/Scripts/parent.js"></script>
+<style src="@/Styles/CSS/parent.css"></style>

@@ -6,5 +6,5 @@
   </div>
 </template>
 
-<script type="text/javascript" src="./Scripts/app.js"></script>
-<style src="./Styles/CSS/app.css"></style>
+<script type="text/javascript" src="@/Scripts/app.js"></script>
+<style src="@/Styles/CSS/app.css"></style>

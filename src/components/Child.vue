@@ -4,12 +4,5 @@
   </div>
 </template>
 
-<script>
-export default {
-  data() {
-    return {
-      menssage: "I'm Luke, the Son"
-    };
-  }
-};
-</script>
+<script type="text/javascript" src="@/Scripts/child.js"></script>
+<style src="@/Styles/CSS/child.css"></style>
